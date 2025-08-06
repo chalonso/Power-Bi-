@@ -1,0 +1,26 @@
+# Seguimiento del Recurso Erogado - Proyecto Marina (Power BI)
+
+Este proyecto fue desarrollado con Power BI para monitorear el avance del recurso erogado en un proyecto vinculado con el monitoreo de Grupo Aeroportuario
+El objetivo principal es visualizar, controlar y dar seguimiento al uso del presupuesto asignado, asegurando trazabilidad y transparencia en la ejecución del gasto.
+
+## 🎯 Objetivo del Proyecto
+
+Brindar una herramienta visual y dinámica para:
+- Visualizar el avance del recurso erogado vs. presupuesto asignado.
+- Detectar posibles desviaciones en el gasto.
+- Tomar decisiones oportunas con base en datos reales y actualizados.
+
+## 🛠️ Herramientas Utilizadas
+
+- **Power BI**
+- **Excel / CSV** como fuente de datos
+- **Power Query** para Transformación y limpieza de datos
+- **DAX** para cálculos de KPIs y métricas
+
+
+## 📊 Capturas del dashboard
+
+> Agrega aquí imágenes en la carpeta `/imagenes`, por ejemplo:
+
+```markdown
+![Dashboard principal](imagenes/powerbi-marina.png)
